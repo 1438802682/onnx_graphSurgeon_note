@@ -14,7 +14,7 @@ https://github.com/NVIDIA/TensorRT/tree/main/tools/onnx-graphsurgeon
 
 ## 翻译进度
 
-+ [ ] API
++ [x] API
 + [x] example
 
 
